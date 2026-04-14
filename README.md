@@ -56,18 +56,6 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 - Collaborated in Agile team of 5 – delivered features ahead of deadlines
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Key Highlights |
-|---------|-----------|----------------|
-| **🤖 AI-Powered Threat Detection** | Python, Streamlit, Psutil, Pyshark, Plotly | Real-time monitoring, IDS/IPS, ransomware detection, port scanning. **Copyright registered (Govt. of India)** |
-| **🕶️ Anonymous Red Team Lab** | Qubes OS, Whonix, ELK, Wazuh, Zabbix, AlienVault | Fully isolated red team environment + defensive monitoring |
-| **📊 Portable Log Analysis Tool** | Python, JSON | Offline SOC tool for air-gapped networks. Custom detection rules, incident response automation |
-| **🧠 Chronic Disease Management** | Python, TensorFlow, Scikit-learn, Django | AI/ML predictive analytics for early intervention & patient risk trends |
-
----
-
 ## 🧰 Technical Skills
 
 ### 🛡️ Security Tools
