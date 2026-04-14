@@ -11,13 +11,12 @@
 - 🔐 Interested in VAPT, threat detection & secure system design
 - 🛠️ Building AI-powered cybersecurity tools (ShieldBuddy)
 - 🌱 Learning Django, backend architecture & advanced security concepts
-- 🤝 Open to collaboration on backend & security projects
 
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/kalyani-gund-269a31254)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/KalyaniGund29)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:kalyanigund07@gmail.com)
 
 ---
@@ -81,20 +80,6 @@ ML-based system for early disease risk prediction.
 - 🥉 Ambuja Tech CTF – 3rd Place  
 - 🏅 AI ML Hackathon 2.0 – Finalist  
 
----
-
-## 📊 GitHub Stats
-![Kalyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
----
-
-## 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
 
 ---
 
