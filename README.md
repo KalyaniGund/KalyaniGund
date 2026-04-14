@@ -25,37 +25,6 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 | B.Tech CSIT (Cyber Security) | Symbiosis Skills and Professional University, Pune | **9.01** | Aug 2022 – Aug 2026 |
 
 ---
-
-## 💼 Work Experience
-
-### 🔴 Red Team Operator (Part-time)  
-**Imperative Business Ventures Ltd** | *June 2025 – Nov 2025*  
-- Built sandboxed offensive lab on **Qubes OS + Whonix** for AD attack simulations  
-- Deployed & tuned `Wazuh`, `Zabbix`, `AlienVault` – reduced false positives, improved detection time  
-- Conducted pentesting & vulnerability assessments with structured remediation reports
-
-### 💻 Full Stack Developer (Part-time)  
-**Twinkle IT Solutions Pvt Ltd** | *June 2025 – Nov 2025*  
-- Built web apps using `ASP.NET`, `C#`, `SQL Server`, `HTML`, `CSS`, `JS`  
-- Delivered **Project Management System** on `.NET Framework` – zero critical bugs post-release  
-- Handled debugging, testing, and deployment across multiple cycles
-
-### 🛡️ Cybersecurity Analyst  
-**Astraeus Next Gen Pvt. Ltd** | *Feb 2025 – May 2025*  
-- Integrated 6+ backend APIs for **ODIN Chatbot** (vulnerability scans, AES encryption, packet capture)  
-- Enhanced **ODIN Web Crawler** for threat data extraction & security insights
-
-### 🔍 Cybersecurity Analyst  
-**DCDIUM Technologies Pvt Ltd** | *June 2024 – Aug 2024*  
-- Configured & monitored **Wazuh SIEM** – triaged alerts, tuned detection rules  
-- Led incident response simulations – reduced resolution time via runbooks
-
-### 🌐 Web Developer  
-**Nexgensis Technologies Pvt Ltd** | *June 2023 – Aug 2023*  
-- Built solutions with `Python`, `Django`, `SharePoint`  
-- Collaborated in Agile team of 5 – delivered features ahead of deadlines
-
----
 ## 🧰 Technical Skills
 
 ### 🛡️ Security Tools
@@ -86,14 +55,6 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 - 🥈 **Imperative x CSI CTF** – 2nd Place  
 - 🥉 **Ambuja Tech CTF** – 3rd Place  
 - 🎯 **AI ML Hackathon 2.0** – Finalist  
-
----
-
-## 📊 GitHub Stats
-
-![Kalyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalyaniGund29&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniGund29&layout=compact&theme=dark)
 
 ---
 
@@ -172,27 +133,8 @@ Offline SOC tool for automated incident response in air-gapped systems.
 ### 🏥 Chronic Disease Management (AI/ML)
 Python · TensorFlow · Django  
 ML-based system for early disease risk prediction.
-
+ 
 ---
-
-## 🏆 Achievements
-- 🥈 Smart India Hackathon 2025 – Runner-Up  
-- 🥇 Kurukshetra-25 Hackfest – 1st Place  
-- 🥈 Imperative x CSI CTF – 2nd Place  
-- 🥉 Ambuja Tech CTF – 3rd Place  
-- 🏅 AI ML Hackathon 2.0 – Finalist  
-
----
-
-## 📌 Popular Repositories
-- 🔐 **ODIN** – Security-focused platform  
-- 🛡️ **Security-Scanner** – Vulnerability scanning tool  
-- 🤖 **AIML-based-Chronic-Disease-Management-System**  
-- 📋 **Portable-Log-analysis-tool**  
-- ⚙️ **Project-Management-Platform**  
-
----
-
 
 
 ## ✍️ Dev Quote
