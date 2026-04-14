@@ -25,6 +25,17 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 | B.Tech CSIT (Cyber Security) | Symbiosis Skills and Professional University, Pune | **9.01** | Aug 2022 – Aug 2026 |
 
 ---
+
+## 🛡️ About Me
+
+- 💻 Backend developer with a focus on security  
+- 🔐 Interested in VAPT, threat detection & secure system design  
+- 🛠️ Building AI-powered cybersecurity tools  
+- 🌱 Learning Django, backend architecture & advanced security concepts  
+- 🤝 Open to collaboration on backend & security projects  
+
+---
+
 ## 🧰 Technical Skills
 
 ### 🛡️ Security Tools
@@ -48,43 +59,7 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 **Smart India Hackathon 2025** – Runner-Up  
-- 🥇 **Kurukshetra-25 Hackfest** – 1st Place  
-- 🥈 **Imperative x CSI CTF** – 2nd Place  
-- 🥉 **Ambuja Tech CTF** – 3rd Place  
-- 🎯 **AI ML Hackathon 2.0** – Finalist  
-
----
-
-## 📌 Pinned Repositories (Suggested)
-
-- [AI-Powered Threat Detection](https://github.com/KalyaniGund/Security-Scanner.git)  
-- [Portable Log Analysis Tool](https://github.com/KalyaniGund/Portable-Log-analysis-tool.git)   
-- [Chronic Disease Management](https://github.com/KalyaniGund/AIML-based-Chronic-Disease-Management-System.git)
-- [Project Management Platform](https://github.com/KalyaniGund/Project-Management-Platform.git)
-  
----
-
-⭐ *Open to collaborations on cybersecurity automation and threat detection tools.*
-## 🛡️ About Me
-- 💻 Backend developer with a focus on security  
-- 🔐 Interested in VAPT, threat detection & secure system design  
-- 🛠️ Building AI-powered cybersecurity tools  
-- 🌱 Learning Django, backend architecture & advanced security concepts  
-- 🤝 Open to collaboration on backend & security projects  
-
----
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](your-link)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:kalyanigund07@gmail.com)
-
----
-
-## 🔧 Tech Stack
+## 🔧 Tech Stack Badges
 
 ### 🔐 Security Tools
 ![Wazuh](https://img.shields.io/badge/Wazuh-blue)
@@ -110,32 +85,61 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 
 ---
 
+## 🏆 Achievements
+
+- 🥈 **Smart India Hackathon 2025** – Runner-Up  
+- 🥇 **Kurukshetra-25 Hackfest** – 1st Place  
+- 🥈 **Imperative x CSI CTF** – 2nd Place  
+- 🥉 **Ambuja Tech CTF** – 3rd Place  
+- 🎯 **AI ML Hackathon 2.0** – Finalist  
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Threat Detection & Automation
-Python · Streamlit · Pyshark · Psutil · Plotly  
+*Python · Streamlit · Pyshark · Psutil · Plotly*  
 Real-time security dashboard for monitoring, network analysis & threat detection.
 
----
-
 ### 🕵️ Anonymous Red Team Lab
-Qubes OS · Whonix · ELK Stack · Wazuh  
+*Qubes OS · Whonix · ELK Stack · Wazuh*  
 Isolated lab for penetration testing & SIEM-based monitoring.
 
----
-
 ### 📋 Portable Log Analysis Tool
-Python · JSON · Windows/Linux  
+*Python · JSON · Windows/Linux*  
 Offline SOC tool for automated incident response in air-gapped systems.
 
----
-
 ### 🏥 Chronic Disease Management (AI/ML)
-Python · TensorFlow · Django  
+*Python · TensorFlow · Django*  
 ML-based system for early disease risk prediction.
- 
+
+### 📁 Project Management Platform
+*Tech stack not specified*  
+Project management platform.
+
 ---
 
+## 📌 Pinned Repositories
+
+- [AI-Powered Threat Detection](https://github.com/KalyaniGund/Security-Scanner.git)  
+- [Portable Log Analysis Tool](https://github.com/KalyaniGund/Portable-Log-analysis-tool.git)   
+- [Chronic Disease Management](https://github.com/KalyaniGund/AIML-based-Chronic-Disease-Management-System.git)
+- [Project Management Platform](https://github.com/KalyaniGund/Project-Management-Platform.git)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/kalyani-gund-269a31254)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/KalyaniGund29)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:kalyanigund07@gmail.com)
+
+---
 
 ## ✍️ Dev Quote
-"Simple code. Secure systems. Real impact." 🔐
+
+> "Simple code. Secure systems. Real impact." 🔐
+
+---
+
+⭐ *Open to collaborations on cybersecurity automation and threat detection tools.*
