@@ -5,7 +5,126 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME)
 
 ---
+# 👩‍💻 Kalyani Gund
 
+> *"Automating security solutions and building tools that solve real-world threats."* 🔐
+
+📍 Pune, Maharashtra  
+📧 [kalyanigund07@gmail.com](mailto:kalyanigund07@gmail.com)  
+📞 +91 8928371005  
+🔗 [LinkedIn](https://linkedin.com/in/kalyani-gund-269a31254) | [GitHub](https://github.com/KalyaniGund29)
+
+---
+
+## 🧠 Summary
+
+Final-year B.Tech Cybersecurity student (CGPA: 9.01) with **5 internships** spanning red teaming, SOC analysis, penetration testing, and secure software development.  
+🏆 **Smart India Hackathon 2025 – Runner-Up**  
+Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`. Passionate about automating security solutions.
+
+---
+
+## 🎓 Education
+
+| Degree | University | CGPA | Duration |
+|--------|------------|------|----------|
+| B.Tech CSIT (Cyber Security) | Symbiosis Skills and Professional University, Pune | **9.01** | Aug 2022 – Aug 2026 |
+
+---
+
+## 💼 Work Experience
+
+### 🔴 Red Team Operator (Part-time)  
+**Imperative Business Ventures Ltd** | *June 2025 – Nov 2025*  
+- Built sandboxed offensive lab on **Qubes OS + Whonix** for AD attack simulations  
+- Deployed & tuned `Wazuh`, `Zabbix`, `AlienVault` – reduced false positives, improved detection time  
+- Conducted pentesting & vulnerability assessments with structured remediation reports
+
+### 💻 Full Stack Developer (Part-time)  
+**Twinkle IT Solutions Pvt Ltd** | *June 2025 – Nov 2025*  
+- Built web apps using `ASP.NET`, `C#`, `SQL Server`, `HTML`, `CSS`, `JS`  
+- Delivered **Project Management System** on `.NET Framework` – zero critical bugs post-release  
+- Handled debugging, testing, and deployment across multiple cycles
+
+### 🛡️ Cybersecurity Analyst  
+**Astraeus Next Gen Pvt. Ltd** | *Feb 2025 – May 2025*  
+- Integrated 6+ backend APIs for **ODIN Chatbot** (vulnerability scans, AES encryption, packet capture)  
+- Enhanced **ODIN Web Crawler** for threat data extraction & security insights
+
+### 🔍 Cybersecurity Analyst  
+**DCDIUM Technologies Pvt Ltd** | *June 2024 – Aug 2024*  
+- Configured & monitored **Wazuh SIEM** – triaged alerts, tuned detection rules  
+- Led incident response simulations – reduced resolution time via runbooks
+
+### 🌐 Web Developer  
+**Nexgensis Technologies Pvt Ltd** | *June 2023 – Aug 2023*  
+- Built solutions with `Python`, `Django`, `SharePoint`  
+- Collaborated in Agile team of 5 – delivered features ahead of deadlines
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Key Highlights |
+|---------|-----------|----------------|
+| **🤖 AI-Powered Threat Detection** | Python, Streamlit, Psutil, Pyshark, Plotly | Real-time monitoring, IDS/IPS, ransomware detection, port scanning. **Copyright registered (Govt. of India)** |
+| **🕶️ Anonymous Red Team Lab** | Qubes OS, Whonix, ELK, Wazuh, Zabbix, AlienVault | Fully isolated red team environment + defensive monitoring |
+| **📊 Portable Log Analysis Tool** | Python, JSON | Offline SOC tool for air-gapped networks. Custom detection rules, incident response automation |
+| **🧠 Chronic Disease Management** | Python, TensorFlow, Scikit-learn, Django | AI/ML predictive analytics for early intervention & patient risk trends |
+
+---
+
+## 🧰 Technical Skills
+
+### 🛡️ Security Tools
+`Wazuh` `Zabbix` `AlienVault` `Kali Linux` `Nmap` `BurpSuite` `Nessus`  
+`ELK Stack` `CIS Benchmark` `STIG`
+
+### 📚 Concepts
+`Penetration Testing` `Vulnerability Assessment` `Threat Detection` `Incident Response`  
+`Log Analysis` `GPO Management` `Active Directory` `Red Teaming`  
+`TCP/IP` `OSI Model` `Firewall` `IDS/IPS` `Encryption`
+
+### 📐 Standards & Frameworks
+`NIST Cybersecurity Framework` `CIS Controls`
+
+### 💻 Programming & Dev
+`Python` `SQL` `HTML` `CSS` `Django` `.NET` `TensorFlow` `Scikit-learn`  
+`Docker` `Kubernetes` `Git`
+
+### 🖥️ Platforms
+`Qubes OS` `Whonix` `SharePoint` `Linux`
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Smart India Hackathon 2025** – Runner-Up  
+- 🥇 **Kurukshetra-25 Hackfest** – 1st Place  
+- 🥈 **Imperative x CSI CTF** – 2nd Place  
+- 🥉 **Ambuja Tech CTF** – 3rd Place  
+- 🎯 **AI ML Hackathon 2.0** – Finalist  
+
+---
+
+## 📊 GitHub Stats
+
+![Kalyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalyaniGund29&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniGund29&layout=compact&theme=dark)
+
+---
+
+## 📌 Pinned Repositories (Suggested)
+
+- [AI-Powered Threat Detection](https://github.com/KalyaniGund29/ai-threat-detection)  
+- [Portable Log Analysis Tool](https://github.com/KalyaniGund29/log-analysis-tool)  
+- [Anonymous Red Team Lab](https://github.com/KalyaniGund29/red-team-lab)  
+- [Chronic Disease Management](https://github.com/KalyaniGund29/chronic-disease-ai)
+
+---
+
+⭐ *Open to collaborations on cybersecurity automation and threat detection tools.*
 ## 🛡️ About Me
 - 💻 Backend developer with a focus on security  
 - 🔐 Interested in VAPT, threat detection & secure system design  
