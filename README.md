@@ -9,7 +9,7 @@
 ## 🛡️ About Me
 - 💻 Backend developer with a focus on security
 - 🔐 Interested in VAPT, threat detection & secure system design
-- 🛠️ Building AI-powered cybersecurity tools (ShieldBuddy)
+- 🛠️ Building AI-powered cybersecurity tools 
 - 🌱 Learning Django, backend architecture & advanced security concepts
 
 ---
