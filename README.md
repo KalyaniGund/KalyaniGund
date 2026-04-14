@@ -11,7 +11,6 @@
 
 📍 Pune, Maharashtra  
 📧 [kalyanigund07@gmail.com](mailto:kalyanigund07@gmail.com)  
-📞 +91 8928371005  
 🔗 [LinkedIn](https://linkedin.com/in/kalyani-gund-269a31254) | [GitHub](https://github.com/KalyaniGund29)
 
 ---
@@ -117,11 +116,11 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 
 ## 📌 Pinned Repositories (Suggested)
 
-- [AI-Powered Threat Detection](https://github.com/KalyaniGund29/ai-threat-detection)  
-- [Portable Log Analysis Tool](https://github.com/KalyaniGund29/log-analysis-tool)  
-- [Anonymous Red Team Lab](https://github.com/KalyaniGund29/red-team-lab)  
-- [Chronic Disease Management](https://github.com/KalyaniGund29/chronic-disease-ai)
-
+- [AI-Powered Threat Detection](https://github.com/KalyaniGund/Security-Scanner.git)  
+- [Portable Log Analysis Tool](https://github.com/KalyaniGund/Portable-Log-analysis-tool.git)   
+- [Chronic Disease Management](https://github.com/KalyaniGund/AIML-based-Chronic-Disease-Management-System.git)
+- [Project Management Platform](https://github.com/KalyaniGund/Project-Management-Platform.git)
+  
 ---
 
 ⭐ *Open to collaborations on cybersecurity automation and threat detection tools.*
@@ -211,20 +210,7 @@ ML-based system for early disease risk prediction.
 
 ---
 
-## 📊 GitHub Stats
-![Kalyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
----
-
-## 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
-
----
 
 ## ✍️ Dev Quote
 "Simple code. Secure systems. Real impact." 🔐
