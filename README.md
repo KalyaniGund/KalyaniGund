@@ -2,12 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;Cybersecurity+Enthusiast;VAPT+Learner;Building+Secure+Systems)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME)
-
 ---
-# 👩‍💻 Kalyani Gund
-
-> *"Automating security solutions and building tools that solve real-world threats."* 🔐
 
 📍 Pune, Maharashtra  
 📧 [kalyanigund07@gmail.com](mailto:kalyanigund07@gmail.com)  
