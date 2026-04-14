@@ -32,7 +32,7 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 - 🔐 Interested in VAPT, threat detection & secure system design  
 - 🛠️ Building AI-powered cybersecurity tools  
 - 🌱 Learning Django, backend architecture & advanced security concepts  
-- 🤝 Open to collaboration on backend & security projects  
+  
 
 ---
 
@@ -43,7 +43,7 @@ Hands-on with `Wazuh`, `Kali Linux`, `Active Directory`, `Python`, and `Django`.
 `ELK Stack` `CIS Benchmark` `STIG`
 
 ### 📚 Concepts
-`Penetration Testing` `Vulnerability Assessment` `Threat Detection` `Incident Response`  
+`Vulnerability Assessment` `Threat Detection` `Incident Response`  
 `Log Analysis` `GPO Management` `Active Directory` `Red Teaming`  
 `TCP/IP` `OSI Model` `Firewall` `IDS/IPS` `Encryption`
 
@@ -114,7 +114,7 @@ Offline SOC tool for automated incident response in air-gapped systems.
 ML-based system for early disease risk prediction.
 
 ### 📁 Project Management Platform
-*Tech stack not specified*  
+*.Net Framework*  
 Project management platform.
 
 ---
@@ -142,4 +142,3 @@ Project management platform.
 
 ---
 
-⭐ *Open to collaborations on cybersecurity automation and threat detection tools.*
